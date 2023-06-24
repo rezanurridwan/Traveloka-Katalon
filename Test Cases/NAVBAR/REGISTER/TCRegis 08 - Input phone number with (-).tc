@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCRegis 08 - Input phone number with (-)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cad418df-e09c-44f4-b13b-13f58213a495</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Scan QR code to download</name>
+   <tag></tag>
+   <elementGuidId>92c6aad1-2855-4942-b206-025bd35814ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-t1w4ow.r-1b43r93.r-1kfrs79.r-1cwl3u0.r-1jkjb.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee4bc8fb-69f7-441e-a095-62b292fbcb08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>fa55bafa-45c5-490f-b2ad-4429546dab82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1b43r93 r-1kfrs79 r-1cwl3u0 r-1jkjb r-fdjqy7</value>
+      <webElementGuid>1ac228fc-6ee6-46be-9c1f-98ed090585fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scan QR code to download</value>
+      <webElementGuid>e2d5d230-cca3-4bba-a7f3-2ce5a287b09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1xcajam r-ipm5af r-1uzo8ef r-13qz1uu r-1s3egr7&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-kdyh1x r-1yos0t3 r-1jgb5lz r-r0h9e2 r-bztko3 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-wech8c r-mrxtjd r-1guathk r-oyd9sg r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-1q142lx r-88pszg&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1d2f490 r-q3we1 r-105ug2t r-u8s1d r-j76wpu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1udh08x r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-18u37iz r-nsbfu8&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1b43r93 r-1kfrs79 r-1cwl3u0 r-1jkjb r-fdjqy7&quot;]</value>
+      <webElementGuid>974a9e2a-37b7-4b35-aaa2-a2790aad4260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>e94be8b5-eacf-49ce-968c-1dd62ad78167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download App'])[1]/following::div[6]</value>
+      <webElementGuid>d782e52e-9970-4311-827f-7a3288f39163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner with Us'])[1]/preceding::div[5]</value>
+      <webElementGuid>c792e580-29ec-41c4-a3b0-965fe8606de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved'])[1]/preceding::div[7]</value>
+      <webElementGuid>21f29444-2876-4aa1-8411-8b7bdb3cff0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scan QR code to download']/parent::*</value>
+      <webElementGuid>58201a3b-c8a9-44d0-99e2-b1f838a29306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>f57595cf-c622-4eb0-96ff-707834bd734b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Scan QR code to download' or . = 'Scan QR code to download')]</value>
+      <webElementGuid>6ba1d9dc-e7da-4e69-a0dc-c737f2df7751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

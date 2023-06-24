@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Traveloka Privacy Policy</name>
+   <tag></tag>
+   <elementGuidId>23ea4148-1733-43bc-a186-35e6c4c1d7f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopContent']/div/div/div/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>26767716-316a-4daa-94e3-40f1d47f68e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Traveloka Privacy Policy</value>
+      <webElementGuid>7d5e3c22-802c-457d-8090-d5009615525a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopContent&quot;)/div[@class=&quot;cleanLayoutDesktop&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;mcp-placeholder&quot;]/div[@class=&quot;component-overflow plainContent&quot;]/h3[1]</value>
+      <webElementGuid>9445ef5f-ee73-4084-8e4d-d06e0f91d680</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopContent']/div/div/div/div[2]/h3</value>
+      <webElementGuid>e2a0b04b-b025-409e-9c9d-c507b1165400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='warning'])[1]/following::h3[1]</value>
+      <webElementGuid>72f21b16-3eee-48db-888e-1df4c702fbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January 2023'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d655cb7c-3d69-4058-9bde-096b0a628e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Traveloka Indonesia'])[1]/preceding::h3[1]</value>
+      <webElementGuid>7b22ec14-e205-4526-8ab0-761827a4aa65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Traveloka Privacy Policy']/parent::*</value>
+      <webElementGuid>0f02e604-49f8-459f-88b2-64aa7ef8fbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>3019b060-c8b1-42eb-9fbf-29d843957284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Traveloka Privacy Policy' or . = 'Traveloka Privacy Policy')]</value>
+      <webElementGuid>66451dfa-8922-4913-a4aa-4ebb7959db5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

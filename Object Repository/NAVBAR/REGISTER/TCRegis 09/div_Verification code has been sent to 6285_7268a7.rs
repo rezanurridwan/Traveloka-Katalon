@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Verification code has been sent to 6285_7268a7</name>
+   <tag></tag>
+   <elementGuidId>43dd13a2-0329-4d7f-ba15-029db6b95701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.r-1vjbqqu.r-t1w4ow.r-ubezar.r-majxgm.r-135wba7.r-xyw6el.r-q4m81j.r-13qz1uu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d1790dd-405d-4382-9d45-e78e46234f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>f14ed4fc-3cee-412d-8482-7a56094c1d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-1vjbqqu r-t1w4ow r-ubezar r-majxgm r-135wba7 r-xyw6el r-q4m81j r-13qz1uu</value>
+      <webElementGuid>44b7f682-6a8b-485a-a1e4-2fdd62b7bc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verification code has been sent to +62851-7161-2831. Please insert verification code to verify.</value>
+      <webElementGuid>c90486dd-b1ea-4b74-bc04-5291ad717d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1bwt9he&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-txk6nv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13dzg4q r-1rttkqs&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-da5iq2 r-bztko3&quot;]/div[@class=&quot;css-901oao r-1vjbqqu r-t1w4ow r-ubezar r-majxgm r-135wba7 r-xyw6el r-q4m81j r-13qz1uu&quot;]</value>
+      <webElementGuid>f32744bf-190d-4380-912c-b8b2d67eda3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>56be6a3b-8a29-49ca-8228-e63b0e5c681b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Verification'])[1]/following::div[1]</value>
+      <webElementGuid>d034bc9b-018e-4e52-9d7e-08913f455803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[4]/following::div[4]</value>
+      <webElementGuid>4dd87588-47a9-49b0-9391-50ea855cee4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification Code'])[1]/preceding::div[1]</value>
+      <webElementGuid>a85d1f90-3a82-449b-9901-e2d314b7adeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[6]</value>
+      <webElementGuid>e738504d-bec9-4a60-9419-0a35951ea4fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verification code has been sent to']/parent::*</value>
+      <webElementGuid>029b02ed-adae-4526-8f00-54e31e5742c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>0c07f0d0-8a32-4dd0-97b5-1d070818aa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Verification code has been sent to +62851-7161-2831. Please insert verification code to verify.' or . = 'Verification code has been sent to +62851-7161-2831. Please insert verification code to verify.')]</value>
+      <webElementGuid>e65492ae-b174-4448-9c0d-d5b4414e20ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
