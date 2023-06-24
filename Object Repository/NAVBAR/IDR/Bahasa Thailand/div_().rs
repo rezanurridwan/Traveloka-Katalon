@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_()</name>
+   <tag></tag>
+   <elementGuidId>0168201a-49ec-438a-b623-22481bd413d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-391gc0.r-1f0042m.r-1loqt21.r-18u37iz.r-1r8g8re.r-1wtj0ep.r-s1qlax.r-1otgn73.r-1i6wzkk.r-lrvibr > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1kb76zh.r-5njf8e > div.css-901oao.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div[9]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>15ff5b68-fde6-42d6-8e62-601a83be5f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>e725d177-cacd-4d1e-8bcf-68291d2414c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-fdjqy7</value>
+      <webElementGuid>e14a343c-7101-4c26-a17b-08dd31f071bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ไทย (ภาษาไทย)</value>
+      <webElementGuid>5fa9e9d2-402a-4811-a820-b9046ddc209f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1xcajam r-ipm5af r-1uzo8ef r-13qz1uu r-1s3egr7&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-kdyh1x r-1yos0t3 r-1jgb5lz r-r0h9e2 r-bztko3 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-wech8c r-mrxtjd r-1guathk r-oyd9sg r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1euycsn r-105ug2t r-u8s1d r-zchlnj r-j76wpu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1udh08x r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t&quot;]/div[@class=&quot;css-1dbjc4n r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-5njf8e&quot;]/div[@class=&quot;css-1dbjc4n r-r4y9i6 r-13l2t4g r-1q142lx r-1e081e0&quot;]/div[@class=&quot;css-1dbjc4n r-1dqxon3&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-391gc0 r-1f0042m r-1loqt21 r-18u37iz r-1r8g8re r-1wtj0ep r-s1qlax r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1kb76zh r-5njf8e&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-fdjqy7&quot;]</value>
+      <webElementGuid>1d018f5a-1004-470e-9ce0-ac8d5d6b2026</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div[9]/div/div</value>
+      <webElementGuid>b8613d52-1ba4-47fa-ac13-d2408d8e94ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thailand (English)'])[1]/following::div[4]</value>
+      <webElementGuid>1e3c4ad0-aa5d-49cc-968d-9757b0265872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Singapore (English)'])[1]/following::div[8]</value>
+      <webElementGuid>dc9217d2-3a6b-45c4-b59c-49271df1cca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Việt Nam (Tiếng Việt)'])[1]/preceding::div[2]</value>
+      <webElementGuid>1ccdffab-a2d0-4617-8165-a2102adf3987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vietnam (English)'])[1]/preceding::div[6]</value>
+      <webElementGuid>31e4bead-8a18-49bc-91c3-a5255dc4e076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ไทย (ภาษาไทย)']/parent::*</value>
+      <webElementGuid>2c86b756-a74c-4a35-9db5-0d0f9a909eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[9]/div/div</value>
+      <webElementGuid>6e2217d2-fa82-4bd3-93cd-8498b35f37b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ไทย (ภาษาไทย)' or . = 'ไทย (ภาษาไทย)')]</value>
+      <webElementGuid>5f45d9d1-4e9b-4bd1-b566-2d61f3c19d85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

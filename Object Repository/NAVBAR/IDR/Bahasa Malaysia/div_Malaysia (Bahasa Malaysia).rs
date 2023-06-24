@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Malaysia (Bahasa Malaysia)</name>
+   <tag></tag>
+   <elementGuidId>f92b13e2-cd24-48b2-8d83-fef0364bd02a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-391gc0.r-1f0042m.r-1loqt21.r-18u37iz.r-1r8g8re.r-1wtj0ep.r-s1qlax.r-1otgn73.r-1i6wzkk.r-lrvibr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54e6f045-00b6-4175-9957-e1a29e803068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ac1df0ae-f89f-4103-bf0e-fdc71888f743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-391gc0 r-1f0042m r-1loqt21 r-18u37iz r-1r8g8re r-1wtj0ep r-s1qlax r-1otgn73 r-1i6wzkk r-lrvibr</value>
+      <webElementGuid>65164e58-6114-4178-be7b-fefc70d1d644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Malaysia (Bahasa Malaysia)</value>
+      <webElementGuid>fd1c9af0-247b-497a-8733-c74ba178eac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1xcajam r-ipm5af r-1uzo8ef r-13qz1uu r-1s3egr7&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-kdyh1x r-1yos0t3 r-1jgb5lz r-r0h9e2 r-bztko3 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-wech8c r-mrxtjd r-1guathk r-oyd9sg r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1euycsn r-105ug2t r-u8s1d r-zchlnj r-j76wpu&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1udh08x r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t&quot;]/div[@class=&quot;css-1dbjc4n r-4k2abt r-1ep47lj r-1clhhh9 r-1ftll1t&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-5njf8e&quot;]/div[@class=&quot;css-1dbjc4n r-r4y9i6 r-13l2t4g r-1q142lx r-1e081e0&quot;]/div[@class=&quot;css-1dbjc4n r-1dqxon3&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-391gc0 r-1f0042m r-1loqt21 r-18u37iz r-1r8g8re r-1wtj0ep r-s1qlax r-1otgn73 r-1i6wzkk r-lrvibr&quot;]</value>
+      <webElementGuid>baf73c4d-088a-4ecb-ace2-88facdfa94fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div[5]</value>
+      <webElementGuid>53bb09db-d2c1-45ff-b368-6c756448f753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia (English)'])[1]/following::div[2]</value>
+      <webElementGuid>9006c497-fdd7-44e1-b474-919764810ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global (English)'])[1]/following::div[6]</value>
+      <webElementGuid>ad5774d9-ea10-477f-a87d-57d9afd4350a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Philippines (English)'])[1]/preceding::div[4]</value>
+      <webElementGuid>f5fecfe1-55ea-4536-999c-877637894c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[5]</value>
+      <webElementGuid>3bebde63-ce79-445f-b979-5d5f660f0f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Malaysia (Bahasa Malaysia)' or . = 'Malaysia (Bahasa Malaysia)')]</value>
+      <webElementGuid>d8de4400-3e80-44d6-88e8-a82b3bed9d3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_IDR</name>
+   <tag></tag>
+   <elementGuidId>1e365683-9778-4959-bb7d-468adf428a12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-391gc0.r-1f0042m.r-18u37iz.r-1r8g8re.r-tuq35u > div.css-901oao.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab2ba0c6-638a-4f9d-9404-0c0e1dcbd06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>5aef150d-06ef-4bb5-9d8c-f6a5999148ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-fdjqy7</value>
+      <webElementGuid>ae433e72-d4d0-4f24-b80d-c1eac55b40de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDR</value>
+      <webElementGuid>2c7d6884-3918-4402-afe5-863e7abdc350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1xcajam r-ipm5af r-1uzo8ef r-13qz1uu r-1s3egr7&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-kdyh1x r-1yos0t3 r-1jgb5lz r-r0h9e2 r-bztko3 r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep r-wech8c r-mrxtjd r-1guathk r-oyd9sg r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[1]/div[@class=&quot;css-1dbjc4n r-1awozwy r-391gc0 r-1f0042m r-18u37iz r-1r8g8re r-tuq35u&quot;]/div[@class=&quot;css-901oao r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-fdjqy7&quot;]</value>
+      <webElementGuid>f70ea1bc-28de-4209-b85f-2323debc2571</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[2]/div[2]/div[3]/div/div/div</value>
+      <webElementGuid>f461d8a2-c559-446a-8bcf-7355a8581d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Booking'])[1]/following::div[4]</value>
+      <webElementGuid>2c8fc734-ab5b-4809-a1d6-8dfb73400252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved'])[1]/following::div[6]</value>
+      <webElementGuid>9079383d-2395-43bf-923a-19a0b9f4456f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay'])[1]/preceding::div[4]</value>
+      <webElementGuid>9e2a1207-beed-4599-9844-813e242daa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::div[11]</value>
+      <webElementGuid>e514ebcd-177d-4110-aaa1-ff738d3b7d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDR']/parent::*</value>
+      <webElementGuid>fcb311fe-09be-4b22-8b8c-02f5f1766e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div</value>
+      <webElementGuid>c6f36a74-0fb5-4ea8-9d18-17d943f77377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IDR' or . = 'IDR')]</value>
+      <webElementGuid>9aac6188-e7f7-4fbe-bfc4-1a7ea2a68669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
