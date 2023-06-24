@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCRegis 03 - Input email with dash (-)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdda877b-137d-4c21-814e-a920b146445c</testCaseGuid>
+</TestCaseEntity>

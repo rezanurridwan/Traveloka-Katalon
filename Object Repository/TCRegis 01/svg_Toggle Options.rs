@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Toggle Options</name>
+   <tag></tag>
+   <elementGuidId>3d24cdd3-96cf-4c8f-b5de-5c6a5f1e6c62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DD'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-k200y.r-1pyaxff.r-1xce0ei > div.css-1dbjc4n > div.css-1dbjc4n > div.css-1dbjc4n.r-1awozwy.r-1loqt21.r-18u37iz.r-1777fci.r-1ny4l3l.r-10paoce.r-edyy15.r-1otgn73.r-1i6wzkk.r-lrvibr > div.css-1dbjc4n.r-1jkjb.r-1m6rj8e.r-1pn2ns4.r-1f1sjgu > div.css-1dbjc4n > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>82138ecc-3f45-41e4-8662-55e401d101ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>62a27198-c6fe-47e4-9c34-f6e6e6bd0174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>6a38343a-1586-4d34-9185-c3719e0945f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>00b98732-3c82-4fb6-9ad8-6aca013c517c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>36445964-3290-4d74-8724-365f95a06f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>8c8ce29f-5a12-4601-8c85-6a3947c7c123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>IcSystemChevronDown</value>
+      <webElementGuid>4585a42e-7b2f-4294-bc78-3cf766871ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toggle Options</value>
+      <webElementGuid>65522142-7fe4-4bf3-90c9-182ffbcec7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1bwt9he&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-txk6nv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13dzg4q r-1rttkqs&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-da5iq2 r-bztko3&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-eqz5dr r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-1wyyakw&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-1wtj0ep r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-k200y r-1pyaxff r-1xce0ei&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-1777fci r-1ny4l3l r-10paoce r-edyy15 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1jkjb r-1m6rj8e r-1pn2ns4 r-1f1sjgu&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/svg[1]</value>
+      <webElementGuid>996bd883-d052-458b-adfd-1e30213bce1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DD'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>983e8039-b5ae-482f-92fe-e400389f3d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Date'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>77fdd571-36c6-4b95-ac00-768e346d5794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MM'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a152e43e-17ce-4478-bbe3-3e58b58d1a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>108d376c-50c5-4b6b-a81a-9c7d8e59045f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Toggle Options' or . = 'Toggle Options')]</value>
+      <webElementGuid>5721d018-62e0-4c29-af92-76e39d638bb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Join</name>
+   <tag></tag>
+   <elementGuidId>941ea435-b92a-4d36-b77a-db40d36f044d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div/div/div[5]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-18t94o4.css-1dbjc4n.r-kdyh1x.r-oo3563.r-1loqt21.r-10paoce.r-1e081e0.r-5njf8e.r-1otgn73.r-lrvibr > div.css-1dbjc4n.r-1awozwy.r-13awgt0.r-18u37iz.r-1777fci</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63c4299b-8859-4ce7-b9b0-77651b1e0537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci</value>
+      <webElementGuid>c4328a96-968b-49f5-afd6-45902811c15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join</value>
+      <webElementGuid>d4f882e9-e049-4dec-ac49-b0839c171a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1bwt9he&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-txk6nv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13dzg4q r-1rttkqs&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-da5iq2 r-bztko3&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-obd0qt r-13awgt0 r-18u37iz r-tzz3ar r-hvns9x r-1e081e0&quot;]/div[@class=&quot;css-1dbjc4n r-f727ji r-1oji4za&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-kdyh1x r-oo3563 r-1loqt21 r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci&quot;]</value>
+      <webElementGuid>a222a0e5-520a-4803-95d7-be4c4dbdfcca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div/div/div[5]/div[2]/div/div[2]</value>
+      <webElementGuid>6c08a2b7-0638-4938-870a-9177e139ad6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join'])[1]/following::div[1]</value>
+      <webElementGuid>05b3be34-6ff8-4a7f-b4d0-658eb3f0e372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use mobile number?'])[1]/following::div[9]</value>
+      <webElementGuid>4c9000fc-62e2-4610-b549-8a60f381f97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already registered?'])[1]/preceding::div[5]</value>
+      <webElementGuid>0ed94857-9f40-4f48-867a-28a0fae48303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[7]</value>
+      <webElementGuid>996ac701-288c-4464-91ce-6c62bce382fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div[2]</value>
+      <webElementGuid>4986e648-5419-4331-8665-d96d94116efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Join' or . = 'Join')]</value>
+      <webElementGuid>a3d57141-f95e-4f2c-9732-f7f752094d9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

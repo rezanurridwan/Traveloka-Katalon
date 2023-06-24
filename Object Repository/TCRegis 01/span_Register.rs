@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Register</name>
+   <tag></tag>
+   <elementGuidId>d21592e9-32be-4636-beeb-5790aed37b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.fc63351294.a822bdf511.e2b4ffd73d.f7db01295e.c334e6f658.a9a04704ee.js-header-login-link > span.e57ffa4eb5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='b2indexPage']/div/div/header/nav/div[2]/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23d70171-d6f7-4769-8266-af0664561af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>e57ffa4eb5</value>
+      <webElementGuid>45d3f908-5cd5-4995-93b1-db8a8bd8df30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>b04650dd-6ad5-47ee-9010-d04b20a05a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2indexPage&quot;)/div[1]/div[@class=&quot;web-shell-header-mfe&quot;]/header[@class=&quot;b4ea8459d6&quot;]/nav[@class=&quot;c20fd9b542&quot;]/div[@class=&quot;a1b3f50dcd be36d14cea b2fe1a41c3 db7f07f643 c7b46bab72&quot;]/a[@class=&quot;fc63351294 a822bdf511 e2b4ffd73d f7db01295e c334e6f658 a9a04704ee js-header-login-link&quot;]/span[@class=&quot;e57ffa4eb5&quot;]</value>
+      <webElementGuid>f677f8eb-d712-444b-a5cb-3a350c0b6a47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='b2indexPage']/div/div/header/nav/div[2]/a[2]/span</value>
+      <webElementGuid>ff12b73f-247e-4a5b-8a08-5611573c0871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List your property'])[1]/following::span[1]</value>
+      <webElementGuid>a33d17d7-258f-4a11-bb44-ffaf3d129e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[1]/following::span[7]</value>
+      <webElementGuid>2b2f59f9-5a4a-4a46-99d3-44cfe3365dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::span[1]</value>
+      <webElementGuid>da799f4d-cf2e-4f32-9884-0cfcf0268ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stays'])[1]/preceding::span[3]</value>
+      <webElementGuid>7aa46feb-4594-4de4-bc44-0dc7a47ed341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
+      <webElementGuid>bf769f34-37c0-449a-ac8b-6a8207c14aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>f3544f70-eeea-4cb2-b5e5-67e2bb851e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>baedc2b1-b78c-41b8-93b5-091f72642cf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

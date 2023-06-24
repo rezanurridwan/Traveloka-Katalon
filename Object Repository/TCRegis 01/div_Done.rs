@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Done</name>
+   <tag></tag>
+   <elementGuidId>11fd5eae-28da-47ec-876d-eeb2bcf8ca91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div[2]/div/div[9]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-13awgt0.r-18u37iz.r-1777fci</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>467f1d92-91ca-463a-9fc7-5c0aadd7b206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci</value>
+      <webElementGuid>2a87ecaa-ef29-45e0-a29b-b47b15a7c429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Done</value>
+      <webElementGuid>7150eb3b-6d2b-48a9-b1b8-3349c0045f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1bwt9he&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-txk6nv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-13dzg4q r-1rttkqs&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-da5iq2 r-bztko3&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-xyw6el&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-kdyh1x r-oo3563 r-1loqt21 r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci&quot;]</value>
+      <webElementGuid>1b44afdc-5438-4ae4-896b-8b6ef0873914</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[3]/div/div[2]/div/div[9]/div[2]</value>
+      <webElementGuid>e42632e7-bd94-429e-8213-f333544d13cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/following::div[1]</value>
+      <webElementGuid>f2039fda-3c08-47e9-a61e-7350f0155950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retype password'])[1]/following::div[9]</value>
+      <webElementGuid>c7bc7303-1188-49fb-810e-886014576d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 Traveloka'])[1]/preceding::div[2]</value>
+      <webElementGuid>30e3b3c7-097e-4520-9160-b2ed0d3aa233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner with Traveloka'])[1]/preceding::div[4]</value>
+      <webElementGuid>aaa389ec-c9a8-4cf7-81db-9c15aa297463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]</value>
+      <webElementGuid>eafc7fae-f56f-452e-9c62-3439e770dc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Done' or . = 'Done')]</value>
+      <webElementGuid>1830c8c7-2e38-4abd-a11d-effd48599d8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCRegis 06 - Input email with symbol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3d29940-adb9-486f-846c-9acbed36e824</testCaseGuid>
+</TestCaseEntity>
